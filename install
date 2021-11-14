@@ -1,0 +1,10 @@
+pkg install nodejs -y
+pkg install nodejs-lts -y
+npm install -g bash-obfuscate
+apt-get update --fix-missing
+apt update && apt upgrade -y
+apt-get update --fix-missing
+pkg install python -y
+pkg install python2 -y
+pip install youtube_dl -y
+pkg install ffmpeg -y
